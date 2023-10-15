@@ -1,0 +1,4 @@
+python track.py --source "D:\Training_Data\22.03.22\ch02_20220322140000.mp4" --yolo_model Custom_Energy_best.pt --img 640
+
+
+python track.py --source "D:\Training_Data\22.03.22\ch01_20220322140000.mp4" --yolo_model Custom_Energy_best.pt --img 640
